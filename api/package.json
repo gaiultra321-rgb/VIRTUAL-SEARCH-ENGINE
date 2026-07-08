@@ -1,0 +1,7 @@
+{
+  "name": "vercel-proxy-browser",
+  "version": "1.0.0",
+  "description": "Anonymous Web Proxy Browser",
+  "main": "api/proxy.js",
+  "dependencies": {}
+}
